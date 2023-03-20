@@ -31,3 +31,16 @@ Here is the top 50 books with the rating greater than 250.
 A big flow with a problem statement in the datset is, if we take all the books and all the users for modelling don't you think it will crete problem? so, what we have to do is we have to decrease the number of users and books beacause we can not consider a user who only registered on the website or has read only one or two books on such user we cannot rely to recommend books.
 
 so what we will limit this number and we will take a user who has rated at least 200 books and take only thoes books which have received at least 50 ratings from user.
+
+5.Modeling:
+
+We have prepared our datset for modelling. we will use the cosine similarity algorithm.
+
+In cosine simalarity text is converted into a vector and with the help of cosine disance we identify the nearest vector.
+
+The closer the vector is the more similar the books are.
+
+Let's see the suggested books
+
+
+
