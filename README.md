@@ -40,8 +40,9 @@ In cosine simalarity text is converted into a vector and with the help of cosine
 
 The closer the vector is the more similar the books are.
 
-Let'![Screenshot (63)](https://user-images.githubusercontent.com/105923718/226262449-d6560444-a26d-4a95-8739-478cbeea1c6f.png)
-s see the suggested books
+Let's see the suggested books
+
+![Screenshot (63)](https://user-images.githubusercontent.com/105923718/226262449-d6560444-a26d-4a95-8739-478cbeea1c6f.png
 
 
 
