@@ -21,3 +21,13 @@ Here is the link for the dataset: https://www.kaggle.com/datasets/rxsraghavagraw
 For implementing popularity based recommender system we will display the top 50 books with the highest average rating.
 
 But we will only consider thoes books which have got greater than 250 votes.
+
+Here is the top 50 books with the rating greater than 250.
+
+![Screenshot (61)](https://user-images.githubusercontent.com/105923718/226258570-045c853d-2136-4990-9376-993aed0b8a35.png)
+
+4.Collabrative based recommender system: 
+
+A big flow with a problem statement in the datset is, if we take all the books and all the users for modelling don't you think it will crete problem? so, what we have to do is we have to decrease the number of users and books beacause we can not consider a user who only registered on the website or has read only one or two books on such user we cannot rely to recommend books.
+
+so what we will limit this number and we will take a user who has rated at least 200 books and take only thoes books which have received at least 50 ratings from user.
